@@ -3,10 +3,12 @@
 ## install
 
 ```
-$ npm i -S vue-auto-register-components
+$ npm i -S vue-auto-register
 ```
 
-## component
+## start
+
+### component
 
 ```js
 import Vue from 'vue'
@@ -22,7 +24,7 @@ Vue.use(component. {
 
 ```
 
-## filter
+### filter
 
 ```js
 import Vue from 'vue'
