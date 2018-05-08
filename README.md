@@ -42,7 +42,7 @@ Vue.use(filter. {
 
 ```
 
-- @/path/to/filters.js
+> @/path/to/filters.js
 
 ```
 export const ft1 = v => 1
