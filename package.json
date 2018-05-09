@@ -1,12 +1,24 @@
 {
   "name": "vue-auto-register",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "homepage": "https://github.com/niuDazhuang/vue-auto-register#readme",
+  "keywords": [
+    "vue",
+    "vue2",
+    "auto",
+    "component",
+    "filter"
+  ],
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niuDazhuang/vue-auto-register"
+  },
+  "author": "niudazhuang",
   "license": "ISC"
 }
