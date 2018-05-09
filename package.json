@@ -3,9 +3,6 @@
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "homepage": "https://github.com/niuDazhuang/vue-auto-register#readme",
   "keywords": [
     "vue",
