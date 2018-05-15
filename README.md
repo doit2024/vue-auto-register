@@ -1,5 +1,7 @@
 # vue-auto-register
 
+- 自动注册某一文件夹下的.vue为全局组件
+
 ## install
 
 ```
