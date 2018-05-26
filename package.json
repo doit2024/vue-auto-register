@@ -1,8 +1,8 @@
 {
   "name": "vue-auto-register",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "VUE-自动注册某一文件夹下vue为全局组件",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "homepage": "https://github.com/niuDazhuang/vue-auto-register#readme",
   "keywords": [
     "vue",
@@ -11,10 +11,20 @@
     "component",
     "filter"
   ],
+  "scripts": {
+    "build": "gulp"
+  },
   "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/niuDazhuang/vue-auto-register"
   },
-  "author": "niudazhuang"
+  "author": "niudazhuang",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-transform-es2015-modules-umd": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1"
+  }
 }
